@@ -19,5 +19,4 @@ public class mathOps {
 		double e = div(a,b);
 		System.out.print(String.format("%d %d %.2f", c,d,e));
 	}
-
 }
